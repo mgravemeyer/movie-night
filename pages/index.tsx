@@ -6,7 +6,7 @@ const IndexPage = () => (
     <h1>Hello Next.js 👋</h1>
     <p>
       <Link href="/about">
-        <a>About</a>
+        <a className='text-red-100'>About</a>
       </Link>
     </p>
   </Layout>
